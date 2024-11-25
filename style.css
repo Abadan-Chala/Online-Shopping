@@ -88,11 +88,13 @@ nav{
 .nav-bottom{
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 50px;
     padding: 8px 20px;
     background: #232f3e;
     color: #fff;
     font-size: 15px;
+    cursor: pointer;
+
 }
 .nav-bottom div{
     display: flex;
